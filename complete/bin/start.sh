@@ -1,0 +1,1 @@
+java -Dmanagement.security.enabled=false -jar target/gs-rest-service-0.1.0.jar
